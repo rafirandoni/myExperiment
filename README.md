@@ -27,7 +27,7 @@ My Simple Class....
 
 [Link To Google](http://www.google.com)
 
-![image](http://rafirandoni.github.com/image.png)
+![image](https://rafirandoni.github.com/myExperiment/image.png)
 
 `Inline Code`
 
